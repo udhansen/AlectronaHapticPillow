@@ -12,3 +12,5 @@
 6. https://www.youtube.com/watch?v=CU26W8CXpeE&ab_channel=MatthewHallberg
 
 7. https://www.elextra.dk/p/arduino-nano-esp32-m-pin-headers/H57030 
+
+8.
