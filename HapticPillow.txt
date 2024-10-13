@@ -13,4 +13,4 @@
 
 7. https://www.elextra.dk/p/arduino-nano-esp32-m-pin-headers/H57030 
 
-8.
+8. https://www.hackster.io/ericBcreator/alarm-clock-with-web-interface-wake-up-light-temp-more-75dc6a 
