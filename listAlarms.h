@@ -1,7 +1,9 @@
-#ifndef LISTALARMS_H
-#define LISTALARMS_H
+#ifndef LIST_ALARMS_H
+#define LIST_ALARMS_H
 
-// Function declarations
+#include "addAlarm.h"
+#include <Arduino.h>
+
 void listAlarms();
 
 #endif

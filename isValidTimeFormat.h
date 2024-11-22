@@ -1,7 +1,9 @@
 #ifndef ISVALIDTIMEFORMAT_H
 #define ISVALIDTIMEFORMAT_H
 
-// Function declarations
+#include <Arduino.h>
+
+// Function declaration
 bool isValidTimeFormat(String timeStr);
 
-#endif
+#endif // ISVALIDTIMEFORMAT_H

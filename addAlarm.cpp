@@ -1,6 +1,8 @@
 #include "addAlarm.h"
 
-// Function to add a new alarm
+String alarmTimes[maxAlarms];
+bool alarmSet[maxAlarms]={false};
+
 bool addAlarm(String newAlarmTime) {
   for (int i = 0; i < maxAlarms; i++) {
     if (!alarmSet[i]) {
