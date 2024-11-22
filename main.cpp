@@ -22,8 +22,8 @@
 #include "timeavailable.h"
 
 // WiFi credentials
-const char* ssid       = "Hansen_wifi_network_2.4G";
-const char* password   = "Rolf1998frede";
+const char* ssid       = "network_2.4G";
+const char* password   = "xXxXxXx";
 
 char ledState = '0';                 // Assuming the command is received with '1'
 
